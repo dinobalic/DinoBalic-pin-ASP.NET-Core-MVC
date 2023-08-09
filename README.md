@@ -1,4 +1,4 @@
-# DinoBalic-pin
+# DinoBalic-pin-ASP.NET Core MVC
  pin-projekt
  
 Projekt-Pin
